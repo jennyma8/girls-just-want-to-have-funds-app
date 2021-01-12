@@ -170,7 +170,7 @@ const AvatarProvider = () => {
                 <option value="Prescription02">Black</option>
                 <option value="Round">Round</option>
                 <option value="Sunglasses">Sunglasses</option>
-                <option value="Wayfarer">Wayfarer</option>
+                <option value="Wayfarers">Wayfarers</option>
               </select>
             </div>
             <div>
@@ -229,7 +229,7 @@ const AvatarProvider = () => {
                 <option value="BlazerShirt">Blazer Shirt</option>
                 <option value="BlazerSweater">Blazer Sweater</option>
                 <option value="CollarSweater">Collar Sweater</option>
-                <option value="Graphic Shirt">Graphic Shirt</option>
+                <option value="GraphicShirt">Graphic Shirt</option>
                 <option value="Hoodie">Hoodie</option>
                 <option value="Overall">Overall</option>
                 <option value="ShirtCrewNeck">Shirt Crew Neck</option>
